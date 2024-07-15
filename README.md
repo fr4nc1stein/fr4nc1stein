@@ -29,8 +29,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fr4nc1stein&show_icons=true&line_height=33&count_private=true&theme=merko" alt="fr4nc1stein's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr4nc1stein&&hide=cmake,javascript,html,css&langs_count=4&line_height=35&theme=merko" alt="fr4nc1stein's Most Used Languages" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fr4nc1stein&" alt="fr4nc1stein" /></p>
+
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fr4nc1stein&" alt="fr4nc1stein" /></p>
 
 <p><a href="https://www.buymeacoffee.com/laet4x"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="laet4x" /></a></p><br><br>
 
