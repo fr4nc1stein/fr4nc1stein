@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm laet4x</h1>
-<h3 align="center">A passionate Cyber Security Professional in California, USA</h3>
+<h3 align="center">A passionate Cyber Security Professional lives in California, USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fr4nc1stein&label=Profile%20views&color=0e75b6&style=flat" alt="fr4nc1stein" /> </p>
 
