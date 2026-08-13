@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm laet4x</h1>
-<h3 align="center">A passionate Cyber Security Professional lives in California, USA</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fr4nc1stein&label=Profile%20views&color=0e75b6&style=flat" alt="fr4nc1stein" /> </p>
 
 I am a results-driven Information Security Lead with over a decade of experience spanning software development, systems architecture, and cybersecurity operations. My career is dedicated to building secure, innovative, and scalable technological solutions that strengthen enterprise security postures through technical innovation and strategic leadership.
-
-I've spent much of my career focusing on the balance between offensive and defensive security, particularly in areas like Red Teaming, Penetration Testing, and Incident Response. I thrive on the challenge of identifying vulnerabilities before they can be exploited and building resilient infrastructures that stand up to modern threats.
 
 Beyond my corporate role, I am deeply committed to community building and the democratization of security knowledge:
 
